@@ -6,3 +6,6 @@
     --last  name, first name, email, server side red
 
 * flow of user account
+
+
+* --make a server rendering which only update one component in the backend 
